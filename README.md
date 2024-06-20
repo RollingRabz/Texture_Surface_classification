@@ -1,5 +1,4 @@
 # Texture_Surface_classification
-# Texture_Surface_classification
 ## 1. Introduction
   This project aim to classify the texture class using texture surface image and 
 the tool used for classification in this project will be Convolution Neural Network.
